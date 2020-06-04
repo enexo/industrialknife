@@ -1,0 +1,22 @@
+.fa-5x {
+    color: blue !important;
+}
+.noBullett {
+    list-style: none;
+    padding-left: 0;
+}
+
+.navlist li {
+    margin-left: 25px;
+}
+
+#navigation {
+    margin-bottom: 50px;
+}
+#about {
+    margin-bottom: 50px;
+}
+
+.social a {
+    font-size: 2rem !important;
+}
